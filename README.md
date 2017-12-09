@@ -1,5 +1,5 @@
 # #6 Code for the Create Student action
-Code shown in teachings    
+Code shown and explained in teachings    
 ### Code added to the controller
 ````java 
   ArrayList<Student> students = new ArraList<>();
