@@ -41,3 +41,4 @@ private Date enrollmentDate;
 
 ```` 
 
+_<div align="right">&copy; clbo@kea.dk</div>_
