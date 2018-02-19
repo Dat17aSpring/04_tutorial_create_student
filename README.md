@@ -1,4 +1,4 @@
-# #6 Code for the Create Student action
+# #4 Code for the Create Student action
 Code shown and explained in teachings    
 
 <img src="/img/create.png" width="600px" />    
